@@ -28,3 +28,5 @@ python3 emotionRecTrain.py --csv_file=data/fer2013.csv --export_path=model_out/ 
 python3 emotionRecTrain.py --csv_file=data/fer2013.csv --export_path=model_out/ --debug
 
 ```
+(Script Python usando Keras + TensorFlow para treinar um modelo de aprendizado de máquina 
+personalizado para reconhecer rostos usando um conjunto de dados com rostos humanos e marcados com emoções.)
